@@ -1,0 +1,56 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+
+Version 3, 19 November 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc.  
+51 Franklin Street, Fifth Floor  
+Boston, MA 02110-1301, USA  
+Everyone is permitted to copy and distribute verbatim copies  
+of this license document, but changing it is not allowed.
+
+  Preamble
+
+  The GNU Affero General Public License is a free, copyleft license  
+that allows software to be freely used, modified, and distributed.  
+However, it also ensures that the source code of modified versions  
+remains available for users, thus fostering collaboration and  
+improving software quality.
+
+TERMS AND CONDITIONS
+
+  0. Definitions.  
+  "This License" refers to version 3 of the GNU Affero General Public License.  
+  "Copyright" also means copyright-like laws that apply to other kinds of  
+works.  "The Program" refers to any work covered by this License.  
+Each licensee is addressed as "you".
+
+  1. Source Code.  
+  The source code for a work means the preferred form of the work for  
+making modifications to it.  It is often provided as a tarball,  
+zip file, or as a simple directory structure, and it should been  
+provided in a transparent format (e.g., XML, Markdown).
+
+  2. Basic Permissions.  
+  You are permitted to use, reproduce, modify, and distribute copies of  
+The Program under the terms of this License.  
+
+  3. Conditions.  
+  if you distribute copies or modified versions of The Program in any  
+way, you must pass on the same rights to recipients and provide them  
+with a copy of this License.  
+
+  4. Copyleft.  
+  All modified versions of The Program you distribute must be licensed as  
+the original under this License.
+
+  5. No Warranty.
+  The Program is provided without any warranty of any kind.
+
+  6. Acceptance.  
+  You accept this License if you copy, modify, or distribute The  
+Program, or if you access it electronically.
+
+End of terms and conditions.
+
+For the full text of the license, please visit:  
+https://www.gnu.org/licenses/agpl-3.0.html
